@@ -1,0 +1,11 @@
+/* src/components/Map.css */
+.map {
+    flex: 1;
+    max-width: 40%;
+    border: 1px solid #ccc;
+    height: 400px;
+    position: relative;
+  }
+  
+  /* Add any specific styles for this component */
+  
